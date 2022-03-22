@@ -37,6 +37,7 @@ public class Solution8 {
 			// created a string array splitting the words by spaces from the file
 			String[] wordSplit = fileTextWriting.split(" ");
 
+			
 			for (int i = 0; i <= wordSplit.length - 1; i++) {
 				// counter always starts at 1
 				int counter = 1;
